@@ -1,27 +1,27 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
-  profession: Web Developer
+  initials: AR
+  name: Ashwin Ramakrishnan
+  email: ashwinr@amfoss.in
+  profession: Mobile Developer
   image: images/profile.jpg
-  location: New York, USA
-  relocation: true
-  company: Atomic Studio
-  for_hire: true
-  focus: Learning Gatsby
-  focus_url: https://gatsbyjs.org
+  location: Coimbatore, TN
+  relocation: false
+  company: amFOSS
+  for_hire: false
+  focus: Mobile development
+  focus_url: https://developer.android.com/
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    Coding is my first love. Getting an idea and implementing it to action is probably the best form of satisfaction as far as I am concerned. I am from, was born, brought up in Coimbatore. I've been an Android developer since my 8th grade. I develop android apps with Kotlin, Java and multiplatform apps using Flutter and Kotlin multiplatform. I'm acquainted with Unity, After effects, Construct. 
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    Been fiddling with different Linux distros as a hobby. A Member in Quora Partner Program. Recently completed my summer internship at Google Summer of Code with The Mifos Initiative. I also try and keep track on whatever's buzzing around new in the tech world.
   skills:
-    - JavaScript
-    - HTML / CSS
-    - Ruby on Rails
+    - Android
+    - Flutter 
+    - Kotlin
   tools:
-    - React
+    - Android Studio
+    - Adobe XD
     - VSCode
-    - Gatsby
   budget:
     currency: $
     min: 5

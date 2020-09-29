@@ -1,14 +1,14 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://linkedin.com/in/ashwinkey04
 
 - name: twitter
-  url: https://twitter.com/username
+  url: https://twitter.com/ashwinkey04
 
 - name: facebook
   url:
 
 - name: instagram
-  url:
+  url: https://instagram.com/ashwin.apk
 
 - name: dribbble
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/ashwinkey04
 
 - name: goodreads
   url:
