@@ -1,18 +1,20 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
-  status: in progress
+- name: Mifos Mobile
+  url: https://github.com/ashwinkey04/mifos-mobile
+  description: Client facing banking application built on top of Apache Fineract. GSoC'20 project
+  status: Complete
   tags:
-    - JavaScript
-    - Gatsby
+    - Kotlin
+    - Multiplatform
   icon: github
+  image: images/project.jpg
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Lorax
+  url: https://github.com/ashwinkey04/lorax
+  description: Flutter application to know and grow trees
   status: live
   tags:
     - JavaScript
     - HTML
-  icon: website
-  image: images/project.jpg
+  icon: github
+  image: images/lorax.png
+  
