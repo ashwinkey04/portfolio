@@ -6,11 +6,20 @@ module.exports = {
         theme: "dark-blue",
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-151591753-2",
+      },
+    },
   ],
   pathPrefix: "/portfolio",
   siteMetadata: {
-    description: "Ashwin's Portfolio",
+    description: "Ashwin Ramakrishnan's Portfolio",
     locale: "en",
-    title: "Ashwin",
+    url: "https://ashwinkey04.github.io/portfolio",
+    image:"/images/profile.jpg",
+    title: "Ashwin's portfolio",
+    twitterUsername: "@ashwinkey04",
   },
 }
