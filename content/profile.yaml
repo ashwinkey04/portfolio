@@ -13,7 +13,7 @@
   about: |
     Coding is my first love. Getting an idea and implementing it to action is probably the best form of satisfaction as far as I am concerned. I am from, was born, brought up in Coimbatore. I've been an Android developer since my 8th grade. I develop android apps with Kotlin, Java and multiplatform apps using Flutter and Kotlin multiplatform. I'm acquainted with Unity, After effects, Construct. 
 
-    Been fiddling with different Linux distros as a hobby. A Member in Quora Partner Program. Recently completed my summer internship at Google Summer of Code with The Mifos Initiative. I also try and keep track on whatever's buzzing around new in the tech world.
+    Been fiddling with different Linux distros and Android custom ROMs as a hobby. A Member in Quora Partner Program. Recently completed my summer internship at Google Summer of Code with The Mifos Initiative. I also try and keep track on whatever's buzzing around new in the tech world.
   skills:
     - Android
     - Flutter 
@@ -24,6 +24,6 @@
     - VSCode
   budget:
     currency: $
-    min: 5
-    max: 30
-    default: 10
+    min: 1
+    max: 50
+    default: 5

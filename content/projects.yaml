@@ -6,15 +6,15 @@
     - Kotlin
     - Multiplatform
   icon: github
-  image: images/project.jpg
+  image: images/project.png
 
 - name: Lorax
   url: https://github.com/ashwinkey04/lorax
   description: Flutter application to know and grow trees
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - Flutter
+    - amFOSS
   icon: github
   image: images/lorax.png
   
