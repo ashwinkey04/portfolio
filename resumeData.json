@@ -1,0 +1,174 @@
+{
+  "main": {
+    "name":"Ashwin Ramakrishnan",
+    "description":"Mobile development engineer who works with Flutter and native Android",
+    "image":"https://github.com/ashwinkey04.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Get in touch",
+    "email": "ashwinkey04@gmail.com",
+    "phone": "+91 80569 54189",
+    "github":"https://github.com/ashwinkey04",
+    "project":"https://www.linkedin.com/in/ashwinkey04/",
+    "address":{
+      "street":"F2/A, PGP Village",
+      "city":"Coimbatore",
+      "state":"TN, India",
+      "zip": "641 005"
+    },
+    "website": "https://ashwinr.codes",
+    "resumedownload":"/resume/Ashwin.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/ashwinkey04",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/ashwinkey04",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashwinkey04/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/ashwin.apk",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Self evaluation of my skillset",
+    "education":[
+      {
+        "school":"Amrita Vishwa Vidhyapeetham , Amritapuri",
+        "degree":"B. Tech in Computer Science and Engineering",
+        "graduated":"May 2023",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"amFOSS",
+        "title":"Student Mentor",
+        "years":"Aug 2019 - Oct 2021",
+        "description":"Was a part of my college's student-run OSS club, where I dedicated my time into contributing to open source software, learning along with others, mentoring juniors, working on personality development, and much more."
+      },
+      {
+        "company":"Freelance",
+        "title":"Flutter and MEAN developer",
+        "years":"Jul 2021 - Sept 2021",
+        "description":"Worked extensively on a trivia mobile app built using Flutter backed by MEAN stack with Firebase. Introduced several features, bug fixes and helped the app go live."
+      },
+      {
+        "company":"spoon.money",
+        "title":"Associate Tech Engineer",
+        "years":"May 2021 - Jul 2021",
+        "description":"Worked on the Spoon first mobile app build on Flutter. Co-ordinated with companies such as setu.co and theflyy.com to integrate their solutions into the Spoon first app."
+      },
+      {
+        "company":"Google Summer of Code",
+        "title":"Intern",
+        "years":"May 2020 - Sept 2020",
+        "description":"Worked on converting Mifos Mobile, a client-facing android app written in Java to work fully on Kotlin and adapt its best practices. Integrated Kotlin Multiplatform Mobile (KMM) to help enable the app to work on both iOS and Android with the business login commonly written in Kotlin"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Flutter",
+        "level":"90%"
+      },
+      {
+        "name":"Native Android",
+        "level":"80%"
+      },
+      {
+        "name":"iOS",
+        "level":"45%"
+      },
+      {
+        "name":"MEAN/MERN Stack",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
