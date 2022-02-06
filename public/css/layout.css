@@ -232,6 +232,65 @@ ul#nav li.current a { color: #fe6928; }
    margin-right: 15px;
    font-size: 20px;
 }
+/* ------------------------------------------------------------------ */
+/* c1. Raag Section
+/* ------------------------------------------------------------------ */
+
+#raag {
+   background-color: black;
+   background-position: right;
+   background-repeat: no-repeat;
+   background-image: url(../images/raag.png);
+   background-size: contain;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#raag a, #raag a:visited  { color: #fff; }
+#raag a:hover, #raag a:focus { color: #fff; }
+
+#raag h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#raag p {
+   line-height: 30px;
+   color: rgb(255, 255, 255);
+}
+#raag .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#raag .contact-details { width: 46.66667%; }
+#raag .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#raag .download .button {
+   margin-top: 6px;
+   background: #444;
+}
+#raag .download .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#raag .download .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+#raag .github {
+   background:#303030;
+   margin-left: 10px;
+}
+#raag .content{
+   padding: 10px;
+   background-image: linear-gradient(to left, rgba(80,80,80,0), rgb(0, 0, 0));
+   width: fit-content(0.5em);
+}
 
 
 /* ------------------------------------------------------------------ */
