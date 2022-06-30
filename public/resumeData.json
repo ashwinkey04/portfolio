@@ -15,7 +15,7 @@
       "state":"TN, India",
       "zip": "641 005"
     },
-    "website": "https://ashwinr.codes",
+    "website": "https://ash-win.tech",
     "resumedownload":"/resume/Ashwin.pdf",
     "social":[
       {
@@ -51,6 +51,12 @@
       }
     ],
     "work":[
+      {
+        "company":"spoon.money",
+        "title":"Product Manager",
+        "years":"Feb 2022 - Present",
+        "description":"Spearheaded the development of Spoon mobile app and admin dashboard while working with organizations like Hyperface, Grant Thornton, Bank of Maharashtra, etc. "
+      },
       {
         "company":"amFOSS",
         "title":"Student Mentor",
